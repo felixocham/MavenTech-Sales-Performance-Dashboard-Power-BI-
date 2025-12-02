@@ -1,6 +1,7 @@
-# MavenTech-Sales-Performance-Dashboard (Power BI)
+# <img width="40" height="40" alt="11232246" src="https://github.com/user-attachments/assets/345f6ba3-cffc-4353-9091-f54dff859be2" /> MavenTech-Sales-Performance-Dashboard (Power BI)
 This repository contains the complete Power BI solution developed for MavenTech, a B2B computer hardware sales company, to enable their sales managers **to track and analyse their team's quarterly performance** and gain visibility into sales opportunities currently tracked within their CRM system.
 The solution is built on a robust Star Schema Data Model and features an interactive, multi-view dashboard with advanced time intelligence and detailed performance breakdowns across various dimensions (Accounts, Products, Teams, and Time).
+
 ### **Key Achievements**
 *  Star Schema Implementation: Developed a scalable and efficient data model.
 
@@ -10,7 +11,8 @@ The solution is built on a robust Star Schema Data Model and features an interac
 
 *  Interactive Design: Implemented a multi-page navigation system using bookmarks and buttons for a seamless user experience.
 
-## Technical Details
+## <img width="40" height="40" alt="12263199" src="https://github.com/user-attachments/assets/bab69a39-a03d-4c6a-8e60-684d6098a590" /> Technical Details
+
 ### 1. Data Model (Star Schema)
    The solution is powered by a well-defined Star Schema to ensure optimal performance and simplified measure development.
    
@@ -48,7 +50,8 @@ A dedicated sheet within the Power BI report serves as a Model Dictionary. This 
 <img width="2390" height="1484" alt="image" src="https://github.com/user-attachments/assets/1e990f5a-c783-47ce-9a85-84488323c3dc" />
 
 
-## Dashboard Features and Views
+## <img width="40" height="40" alt="11264787" src="https://github.com/user-attachments/assets/cfe87b7c-0e4e-4280-bba7-b130ec3ed069" />  Dashboard Features and Views
+
 The dashboard is structured with a navigation system allowing users to switch between six distinct analysis views.
 
 ### Global Filters
@@ -124,13 +127,13 @@ A raw data view for investigative purposes.
   
    <img width="2253" height="1268" alt="image" src="https://github.com/user-attachments/assets/d7ab2dff-23d5-4daf-b3bf-21f02587071d" />
 
-## Installation and Use
+## <img width="40" height="40" alt="2499127" src="https://github.com/user-attachments/assets/776f3fb1-3bc6-4818-850d-26647530d4e7" />  Installation and Use
 1.   **Clone the Repository:**
 
 ```
 Bash
 
-git clone [your-repo-link]
+git clone (https://github.com/felixocham/MavenTech-Sales-Performance-Dashboard-Power-BI-/edit/main/)
 ```
 
 2.   **Open the Project:**
@@ -148,4 +151,22 @@ git clone [your-repo-link]
 4.   **Review the Model:**
 
       *  Navigate to the dedicated **Model Dictionary** sheet for detailed technical documentation.
+
+## <img width="40" height="40" alt="5406792" src="https://github.com/user-attachments/assets/8691bade-5380-430f-9811-a602111052b6" />  Acknowledgements and Resources
+
+This project was developed as a solution to a community challenge and incorporated design best practices from leading Power BI professionals.
+
+### Challenge Source
+Maven Sales Challenge by Maven Analytics
+
+      Link: [https://mavenanalytics.io/challenges/maven-sales-challenge](https://mavenanalytics.io/challenges/maven-sales-challenge)
+
+### Design Inspiration
+*   **Next Level Power BI Reports:** Valuable insights on report design, aesthetics, and user experience.
+
+      Channel: [https://www.youtube.com/@nextlevelpowerbireports](https://www.youtube.com/@nextlevelpowerbireports)
+
+*   **How to Power BI:** Techniques and best practices for DAX, data modelling, and report functionality.
+
+      Channel: [https://www.youtube.com/@HowtoPowerBI ](https://www.youtube.com/@HowtoPowerBI) 
 
