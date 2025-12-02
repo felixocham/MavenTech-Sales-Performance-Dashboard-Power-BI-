@@ -69,6 +69,9 @@ The primary landing page features executive-level KPIs and high-level rankings.
 
 *   **Top 5 Matrix:** Comparison of Top 5 Accounts and Top 5 Sales Agents against their Previous Quarter performance.
 
+  <img width="2259" height="1276" alt="image" src="https://github.com/user-attachments/assets/3f9eb594-750e-45ab-8c9a-42b169989001" />
+
+
 ### B. Account View (Deep Dive)
 Focuses on customer performance and characteristics.
 
@@ -82,20 +85,32 @@ Focuses on customer performance and characteristics.
 
 *   **Ranking Charts:** Ranking of all accounts by Close Value and geographical **Location Ranking** by Close Value.
 
+    <img width="2257" height="1273" alt="image" src="https://github.com/user-attachments/assets/8dcb9851-def4-4dd6-b068-dfc5ad9d6bbd" />
+
+
 ### C. Period View (Time Intelligence)
 Analyses performance trends and quarterly variance.
 
 *   **Charts per Measure:** Visual comparison of performance metrics (Won Opportunities, Avg. Deal Closure Time, Lost Opportunities, Conversion Rate) for the **Current Quarter vs. Previous Quarter (QoQ).**
+
+    <img width="2255" height="1270" alt="image" src="https://github.com/user-attachments/assets/5da52db2-643a-48c2-a612-e29d6178e43a" />
+
 
 ### D. Product View
 Analyses sales performance across the product catalogue.
 
 *   **Charts per Measure:** Breakdown of all key measures for individual products (e.g., how **Conversion Rate** differs between hardware product lines).
 
+    <img width="2253" height="1269" alt="image" src="https://github.com/user-attachments/assets/843e58ab-190f-4890-902d-08722610e653" />
+
+
 ### E. Team View
 Focuses on sales force effectiveness and regional differences.
 
 *   **Performance Metrics:** Detailed analysis of key measures based on **Individual Sales Staff** and their assigned **Regions.**
+
+   <img width="2251" height="1273" alt="image" src="https://github.com/user-attachments/assets/e3b525a9-947a-4c03-a878-670997c8cfe4" />
+
 
 ### F. Data View (Opportunity Tracker)
 A raw data view for investigative purposes.
@@ -103,3 +118,6 @@ A raw data view for investigative purposes.
 *   **Opportunity List:** Matrix listing all sales opportunities.
 
 *   **Filtering Buttons:** Allows users to dynamically switch the displayed data between opportunities in various stages: **Prospecting, Engaging, Won, Lost.**
+  
+   <img width="2253" height="1268" alt="image" src="https://github.com/user-attachments/assets/d7ab2dff-23d5-4daf-b3bf-21f02587071d" />
+
