@@ -58,6 +58,9 @@ Persistent filters are available across all views for:
 
 2.   Quarter of Interest
 
+   <img width="2256" height="170" alt="image" src="https://github.com/user-attachments/assets/6280f3a3-99a3-4343-829e-f43aecfb58aa" />
+
+
 ### A. Dashboard View (Summary)
 The primary landing page features executive-level KPIs and high-level rankings.
 
@@ -120,4 +123,29 @@ A raw data view for investigative purposes.
 *   **Filtering Buttons:** Allows users to dynamically switch the displayed data between opportunities in various stages: **Prospecting, Engaging, Won, Lost.**
   
    <img width="2253" height="1268" alt="image" src="https://github.com/user-attachments/assets/d7ab2dff-23d5-4daf-b3bf-21f02587071d" />
+
+## Installation and Use
+1.   **Clone the Repository:**
+
+```
+Bash
+
+git clone [your-repo-link]
+```
+
+2.   **Open the Project:**
+
+      *  Locate the Power BI Desktop file (.pbix) in the repository.
+
+      *  Open the file using **Power BI Desktop.**
+
+3.   **Explore the Report:**
+
+      *  Use the navigation buttons on the top/side of the report canvas to switch between the **Dashboard, Account, Period, Product, Team, and Data** views.
+
+      *  Utilise the global filters for **Manager** and **Quarter** to narrow down the analysis.
+
+4.   **Review the Model:**
+
+      *  Navigate to the dedicated **Model Dictionary** sheet for detailed technical documentation.
 
